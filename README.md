@@ -10,7 +10,7 @@ This is my personal repo for README
 
  
   **Java**: 
-  [Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https:)
+ [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https:)]
 
 
   [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link)]
