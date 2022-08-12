@@ -18,8 +18,8 @@ This is my personal repo for README
  
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https: )]
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)]
-   [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-//Developer)
-  //[![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https:)]
+  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https:)]
 
   **JavaScript**: 
  
