@@ -23,7 +23,7 @@ This is my personal repo for README
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https: )]
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
    [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-//Developer)
-  //[![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https:)](https:
+  //[![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https:)]
 
   **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https:)]
@@ -41,7 +41,7 @@ This is my personal repo for README
 **Software Development:**
 [![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle "Eclipse IDE")](https://github.com/Quananhle)
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle)
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
+[IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
 
 
 
