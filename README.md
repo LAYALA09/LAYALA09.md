@@ -46,9 +46,9 @@ This is my personal repo for README
 **Version Control:**
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https:)
 
-<sup>*click on some badges may redirect you to the corresponding repositories</sup>
+
 
 ---
 ### 👀 Active Repo
