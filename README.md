@@ -9,7 +9,7 @@ This is my personal repo for README
 ### Languages<sup>*</sup>
 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https:)
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https:)](https://github.com/Quananhle/Haskell---NLP)
+
 [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https:
 
  
